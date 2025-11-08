@@ -1,0 +1,25 @@
+
+O
+/
+__dummy"
+__dummy_idJstock_prediction_project
+¶°½È¨›†Ş¶°½È¨›†Ş
+c
+C
+stockNSE stock ticker symbol"stockJstock_prediction_project
+¶°½ÈØá“Ş¶°½ÈØá“Ş1"$f43f35b0-7ea9-465e-b850-7aa7b66a0c38*Å±½È²×2’
+Ù
+stock_technical_featuresstock_prediction_projectstock"
+rolling_avg_10"
+volume_sum_10"
+
+target2€õ$:Õ	timestampZ97../data/processed/v0_v1/combined_processed_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢7../data/processed/v0_v1/combined_processed_data.parquet’¶°½È€„èÆ"¶°½È¨éìİ@b	
+stock4
+¶°½È¸› ŞÅ±½È°®ïÖ
+Ä¼˜È˜ëªø€ºÈRÑ
+Î
+,feast.infra.online_stores.sqlite.SqliteTable"
+h/home/mehtavishwas989_gmail_com/stock-prediction-mlops/mlops-oppe-prep/feature_repo/data/online_store.db1stock_prediction_project_stock_technical_featuresbğ	timestampZ97../data/processed/v0_v1/combined_processed_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢7../data/processed/v0_v1/combined_processed_data.parquetªstock_prediction_project’¶°½È€„èÆ"¶°½È¨éìİŠ:
+
+stock_prediction_project
+¶°½È¯ÇÇ¶°½È¯ÇÇ
